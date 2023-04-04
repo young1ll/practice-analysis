@@ -8,7 +8,7 @@ $ .\venv\Scripts\activate
 $ (venv) pip install -r requirements.txt
 ```
 
-**Require** : Python `numpy`, pandas, matplotlib\
+**Require** : `Python` `numpy`, `pandas`, `matplotlib`\
 **Additional** : JupyterLab for ipynb
 
 ### To do
