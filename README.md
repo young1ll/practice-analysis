@@ -9,10 +9,10 @@ $ (venv) pip install -r requirements.txt
 ```
 
 **Require** : `Python` `numpy`, `pandas`, `matplotlib`\
-**Additional** : JupyterLab for ipynb
+**Additional** : `jupyterlab` for `.ipynb`
 
 ### To do
 
-- [ ] 회귀
+- [ ] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
 - [ ] 분류
 - [ ] 시계열
