@@ -8,11 +8,24 @@ $ .\venv\Scripts\activate
 $ (venv) pip install -r requirements.txt
 ```
 
-**Require** : Python `numpy`, pandas, matplotlib\
-**Additional** : JupyterLab for ipynb
+### Package List
+- `numpy`
+- `pandas`
+- `seaborn`
+- `plotly`
+- `jupyterlab`
+- `statsmodels`
+- `scikit-learn`
+- `xboost`
+- `optuna`
+<br /><br />
+- `finance-datareader`
+<br /><br />
+- `prophet`
+- `pycountry`
 
 ### To do
 
 - [ ] 회귀
 - [ ] 분류
-- [ ] 시계열
+- [ ] 시계열 - prophet
